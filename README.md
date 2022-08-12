@@ -31,4 +31,4 @@ For more details on how we implemented the code and how carried out the experime
 </h4>
 
 ## Getting Started
-We have used Google Colaboratory to implement this project, the source code can be found in [**NeuralCollaborativeFiltering.ipynb**](https://colab.research.google.com/drive/1kj1qB2FAZMosN9hEEZScykK0lvyBc2Sk?usp=sharing). 
+We have used Google Colaboratory to implement this project, the source code can be found in [**NeuralCollaborativeFiltering.ipynb**](https://github.com/GiovanniBurbi/Neural-Collaborative-Filtering/blob/main/NeuralCollaborativeFiltering.ipynb). 
